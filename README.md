@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandotakashi&show_icons=true&theme=dracula)](https://github.com/fernandotakashi/github-readme-stats)
+[![Fernando Takashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandotakashi&show_icons=true&theme=dracula)](https://github.com/fernandotakashi/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Takashi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
